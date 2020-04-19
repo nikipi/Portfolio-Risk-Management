@@ -7,4 +7,4 @@ You will learn :
 4. Fit data into Capital Assest Price Model, FamaFrench 3 factors model and 5 factors model
 5. Caculate VAR and CVAR
 6. Random Walk
-![avatar］（https://www.dropbox.com/s/06j1hw3oac2n4tm/Screenshot%202020-04-19%2009.14.14.png?dl=0）
+！（https://www.dropbox.com/s/06j1hw3oac2n4tm/Screenshot%202020-04-19%2009.14.14.png?dl=0）
